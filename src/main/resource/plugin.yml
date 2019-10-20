@@ -1,0 +1,7 @@
+name: Profiler
+main: iKguana.profiler.ProfilerPlugin
+version: "1.0.0"
+
+api: "1.0.0"
+
+auther: iKguana
